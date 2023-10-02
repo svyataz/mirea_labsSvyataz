@@ -1,6 +1,6 @@
 package LAB3;
 
-public class EmployeeTest {
+public class  EmployeeTest {
     public static void main(String[] args){
         Employee[] empoloyee_list = new Employee[]{
                 new Employee("Vova Shutov", 54000),
