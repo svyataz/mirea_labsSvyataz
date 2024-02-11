@@ -1,4 +1,5 @@
 package LAB1;
+//коммент для второго комита
 //комент для первого комита
 public class TASK1 {
     public static void main(String[] args){
