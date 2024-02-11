@@ -1,7 +1,6 @@
 package LAB1;
-//коммент для третьего комита
 //коммент для второго комита
-//коммент для первого комита
+//комент для первого комита
 public class TASK1 {
     public static void main(String[] args){
         int test_list_sum = 0;
