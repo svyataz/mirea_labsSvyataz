@@ -1,5 +1,5 @@
 package LAB1;
-
+//комент для первого комита
 public class TASK1 {
     public static void main(String[] args){
         int test_list_sum = 0;
